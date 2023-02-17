@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working as a technology consultant
+🔭 I’m currently working as a technology consultant <br>
 🌱 I’m currently learning web development
 
 <!--
