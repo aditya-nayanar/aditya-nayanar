@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-🔭 I’m currently working as a technology consultant <br>
-🌱 I’m currently learning web development
-
 <!--
 **aditya-nayanar/aditya-nayanar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
